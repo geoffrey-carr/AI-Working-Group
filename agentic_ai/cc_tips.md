@@ -11,7 +11,7 @@
 ---
 
 ## 10 Workflow Tips
-
+Hey look a test!
 ### 1. Set up the `cc` alias
 
 Add this to your `~/.zshrc` or `~/.bashrc`:
